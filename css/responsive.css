@@ -1,0 +1,54 @@
+/***********************************
+* Responsive media queries code *
+************************************/
+/* Most of the Mobile Phone Code */
+@media ( min-width: 320px) and (max-width: 480px) {
+/* code start */
+.header-section .banner-part h4 {
+    margin: 35px 0px 0px;
+}
+.header-section .banner-part h1 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.header-section .banner-part p {
+    font-size: 14px;
+}
+.title h1 {
+    font-size: 30px;
+    line-height: 38px;
+}
+.like-section h2 {
+    margin-top: 10px;
+    font-size: 17px;
+}
+.like-section .col-lg-4 {
+    margin-top: 10px;
+}
+.footer-section .social-media {
+    padding-top: 20px;
+}
+.footer-section .social-media .fa {
+    padding: 5px;
+    font-size: 16px;
+}
+.footer-section p {
+    padding-bottom: 20px;
+    font-size: 11px;
+}
+
+
+/* code end */
+}
+/* Most of the Mobile Phone and low-resolution Tablet Code */
+@media ( min-width: 481px) and (max-width: 767px) {
+/* code start */
+
+/* code end */
+}
+/* Most of the Tablet Phone and mini notebook Code */
+@media ( min-width: 768px) and (max-width: 1024px) {
+/* code start */
+
+/* code end */
+}
